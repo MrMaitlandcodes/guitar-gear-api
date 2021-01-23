@@ -1,0 +1,30 @@
+{
+  "guitars": {
+    "type": {
+      "electronic guitars": [
+        {
+          "id": 0,
+          "brand": "Fender",
+          "prod-name": "American Ultra Luxe Stratocaster"
+        },
+        {
+          "id": 1,
+          "brand": "Fender",
+          "prod-name": "Contemporary Jaguar® HH ST"
+        },
+        {
+          "id": 2,
+          "brand": "Gibson",
+          "prod-name": "Gibson ES 339 Cherry"
+        }
+      ],
+      "accoustic guitars": [
+        {
+          "id": 0,
+          "brand": "Martin",
+          "prod-name": "Martin DJr-10E StreetMaster Guitar"
+        }
+      ]
+    }
+  }
+}

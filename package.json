@@ -1,0 +1,24 @@
+{
+  "name": "guitar-gear-api",
+  "version": "1.0.0",
+  "description": "A Guitar Gear API",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMaitlandcodes/guitar-gear-api.git"
+  },
+  "author": "Marvin M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrMaitlandcodes/guitar-gear-api/issues"
+  },
+  "homepage": "https://github.com/MrMaitlandcodes/guitar-gear-api#readme"
+}
